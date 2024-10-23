@@ -1,10 +1,10 @@
 const headerNavLinks = [
-  { href: '/', title: '主页' },
-  { href: '/posts', title: '文章' },
-  { href: '/tags', title: '标签' },
-  { href: '/archive', title: '归档' },
-  { href: '/friends', title: '友链' },
-  { href: '/about', title: '关于' }
-]
+  { href: "/", title: "主页" },
+  { href: "/posts", title: "文章" },
+  { href: "/tags", title: "标签" },
+  { href: "/archive", title: "归档" },
+  // { href: '/friends', title: '友链' },
+  // { href: "/about", title: "关于" },
+];
 
 export default headerNavLinks;
